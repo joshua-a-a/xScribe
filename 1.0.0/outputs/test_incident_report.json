@@ -1,0 +1,62 @@
+{
+  "incident_report": {
+    "report_id": "RPT-d28a953d",
+    "generated_at": "2025-09-23T14:13:26.723615",
+    "incident_details": {
+      "incident_id": "d28a953d-e62a-4045-928f-bf5d1481337d",
+      "title": "Test Incident - System Verification",
+      "description": "Test incident created to verify breach response system functionality",
+      "severity": "Low",
+      "status": "Resolved",
+      "detected_at": "2025-09-23T14:13:26.723458",
+      "detection_method": "Manual test",
+      "affected_data_categories": [
+        "Test data only"
+      ],
+      "estimated_affected_individuals": 0,
+      "potential_impact": "No actual impact - system test only",
+      "immediate_actions_taken": [
+        "Test incident logged",
+        "System verification completed"
+      ],
+      "investigation_findings": "",
+      "resolution_actions": [],
+      "resolved_at": "2025-09-23T14:13:26.723472",
+      "notification_required": false,
+      "notifications_sent": []
+    },
+    "timeline": [
+      {
+        "timestamp": "2025-09-23T14:13:26.723458",
+        "event": "Incident detected",
+        "description": "Detected via Manual test"
+      },
+      {
+        "timestamp": "2025-09-23T14:13:26.723472",
+        "event": "Incident resolved",
+        "description": "Resolution actions completed"
+      }
+    ],
+    "impact_assessment": {
+      "affected_individuals": 0,
+      "data_categories": [
+        "Test data only"
+      ],
+      "severity_assessment": "Low",
+      "potential_harm": "No actual impact - system test only",
+      "actual_harm": "[TO BE ASSESSED - Document any actual harm occurred]"
+    },
+    "response_actions": [
+      "Test incident logged",
+      "System verification completed"
+    ],
+    "lessons_learned": "[TO BE COMPLETED - Add lessons learned]",
+    "preventive_measures": [
+      "Review and strengthen access controls",
+      "Enhance monitoring and detection capabilities",
+      "Update security training materials",
+      "Review data retention policies",
+      "Strengthen encryption implementations"
+    ]
+  }
+}

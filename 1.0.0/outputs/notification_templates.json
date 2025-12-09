@@ -1,0 +1,31 @@
+{
+  "notification_authority": {
+    "title": "Data Protection Authority Notification Template",
+    "content": {
+      "incident_reference": "[INCIDENT_ID]",
+      "controller_details": "[TO BE COMPLETED - Controller information]",
+      "incident_description": "[INCIDENT_DESCRIPTION]",
+      "discovery_date": "[DETECTED_AT]",
+      "incident_nature": "[SEVERITY] severity privacy incident",
+      "affected_individuals": "[ESTIMATED_COUNT] individuals potentially affected",
+      "data_categories": "[AFFECTED_DATA_CATEGORIES]",
+      "likely_consequences": "[POTENTIAL_IMPACT]",
+      "measures_taken": "[RESPONSE_ACTIONS]",
+      "contact_point": "[TO BE COMPLETED - DPO or contact details]"
+    }
+  },
+  "notification_individual": {
+    "title": "Individual Notification Template",
+    "content": {
+      "subject": "Important Security Notice - [ORGANIZATION_NAME]",
+      "greeting": "Dear [RECIPIENT_NAME],",
+      "incident_notification": "We are writing to inform you of a security incident that may have affected your personal data processed through xScribe transcription software.",
+      "incident_details": "[INCIDENT_DESCRIPTION]",
+      "affected_data": "The following types of data may have been affected: [DATA_CATEGORIES]",
+      "actions_taken": "We have taken the following immediate actions: [RESPONSE_ACTIONS]",
+      "recommendations": "While we believe the risk to you is low, we recommend you remain vigilant and contact us if you have any concerns.",
+      "contact_info": "[TO BE COMPLETED - Contact information for questions]",
+      "legal_disclaimer": "This notification is provided for informational purposes."
+    }
+  }
+}

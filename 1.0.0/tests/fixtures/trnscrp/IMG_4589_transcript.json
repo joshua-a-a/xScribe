@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "start": 1.9600000000000004,
+      "end": 7.22,
+      "text": "Testing 1, 2, 3, 4.",
+      "confidence": 0.9,
+      "speaker": "SPEAKER_1",
+      "duration": 5.26
+    }
+  ],
+  "language": "en",
+  "language_probability": 0.0,
+  "duration": 7.22,
+  "processing_time": 6.055493116378784,
+  "model_used": "base",
+  "file_path": "/test-data/IMG_4589.MOV",
+  "created_at": "2025-12-02T22:03:40.882034",
+  "metadata": {
+    "transcription_time": 1.1406140327453613,
+    "audio_quality": {
+      "quality_score": 75.0,
+      "duration": 9.557333333333334,
+      "sample_rate": 48000,
+      "snr_estimate": 47.19670867919922,
+      "clipping_ratio": 0.0,
+      "silence_ratio": 0.8395276750837054,
+      "mean_spectral_centroid": 3168.810358439143,
+      "recommendations": [
+        "Consider trimming silence"
+      ]
+    },
+    "file_name": "IMG_4589.MOV",
+    "file_size": 20848181,
+    "timestamp": 1764713020.882025
+  },
+  "text": "Testing 1, 2, 3, 4.",
+  "full_text": "Testing 1, 2, 3, 4.",
+  "word_count": 5,
+  "average_confidence": 0.9,
+  "unique_speakers": [
+    "SPEAKER_1"
+  ]
+}
